@@ -3,5 +3,5 @@
   "installCommand": "bash scripts/vercel-install.sh",
   "buildCommand": "nuxt build",
   "outputDirectory": ".output",
-  "alias": ["checklist-poc-kohl.vercel.app"]
+  "alias": ["checklist-poc-wlth.vercel.app"]
 }
