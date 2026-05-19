@@ -2,5 +2,6 @@
   "framework": "nuxtjs",
   "installCommand": "bash scripts/vercel-install.sh",
   "buildCommand": "nuxt build",
-  "outputDirectory": ".output"
+  "outputDirectory": ".output",
+  "alias": ["checklist-poc-kohl.vercel.app"]
 }
