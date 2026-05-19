@@ -9,6 +9,10 @@
   "engines": {
     "node": ">=22"
   },
+  "devDependencies": {
+    "oxc-parser": "^0.110.0",
+    "oxc-transform": "^0.110.0"
+  },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.95.2",
     "@directus/sdk": "^17.0.0",

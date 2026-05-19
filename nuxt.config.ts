@@ -4,10 +4,6 @@ export default defineNuxtConfig({
   // Keep Nitro server alive (needed for server/api routes) but render all pages as SPA
   ssr: false,
 
-  nitro: {
-    preset: 'node-server',
-  },
-
   routeRules: {
     '/**': { ssr: false },
   },
